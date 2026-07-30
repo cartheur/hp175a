@@ -1,4 +1,4 @@
-# hp175a
+# hp175a oscilloscope
 
 ![hp175a](/images/175a.jpg)
 
