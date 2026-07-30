@@ -1,9 +1,9 @@
 # hp175a
 
-Oscilloscope
+![hp175a](/images/175a.jpg)
 
-* 1781B Delay Generator
 * 1754A Four-Channel Amplifier
+* 1781B Delay Generator
 
 ## Description
 
