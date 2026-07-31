@@ -19,3 +19,16 @@ Specifications:
 * Operating modes:  4 channels A and B: A, B, A/B chopped, A/B alternate, A+B
 * Sensitivity:      50 mV/cm to 20 V/cm in 9 ranges
 
+### Help wanted
+
+As you say that you are new to this, I offer the following information:
+You might also be able to find these under their European listings,
+6DJ8 is also ECC88..... For the ECC, the E means 6 volt heater, the CC means it has 2 triodes.
+6CW5 is also EL86 .....  For the EL, the E means 6 volt heater, the L means it's a power pentode.
+12AU7 is also ECC82..... For the ECC, the E means 6 volt heater, the CC means it has 2 triodes.
+Don't be confused by the 12AU7 with a 6 volt heater as in the ECC82 listing when the 12 indicates 12 volts, it can be connected for either voltage.
+Due to it being mixed in with all those 6 volt types, it's most likely being operated by 6 volts.
+As for supplying them, I don't believe I have any 6CW5s, but I would have some of the rest.
+I don't believe I could find 10 of the 6DJ8/ECC88.
+You could have them for free, but I live in Australia which presents a postage issue.
+I think you'll likely find these locally anyway, but come back if you need me.
