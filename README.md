@@ -9,8 +9,8 @@
 
 To operate the HP 175A, one horizontal and one vertical amplifier module from the 175x series are required; these are inserted into the top right and bottom left of the main unit respectively. The oscilloscope can thus be adapted to its measurement tasks or used flexibly as required. The model shown here features:
 
-* Four Trace Vertical Amplifier Model 1754A
-* Delay Generator Model 1781B
+* Four Channel Amplifier - Model 1754A
+* Delay Generator - Model 1781B
 
 which allows the display duration of the signal under investigation to be varied. Unfortunately, the previous owner – sensing the deal of a lifetime – had removed all 10 6DJ8, 6CW5, and 12AU7 (1) valves from the unit.
 
