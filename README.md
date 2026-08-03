@@ -12,7 +12,7 @@ To operate the HP 175A, one horizontal and one vertical amplifier module from th
 * Four Channel Amplifier - Model 1754A
 * Delay Generator - Model 1781B
 
-which allows the display duration of the signal under investigation to be varied. Unfortunately the previous owner – sensing the deal of a lifetime – had removed all valves from the unit. Luckily, he missed some _really_ obscure ones.
+Which allows the display duration of the signal under investigation to be varied. Unfortunately the previous owner – sensing once-in-a-lifetime treasure – had removed all valves from the unit. Luckily, he missed the obscure [nuvistors](https://en.wikipedia.org/wiki/Nuvistor); probably because they don't look like valves.
 
 Specifications:
 * Frequency range:  DC ... 50 MHz
