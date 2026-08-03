@@ -63,5 +63,4 @@ Don't be confused by the 12AU7 with a 6 volt heater as in the ECC82 listing when
 Due to it being mixed in with all those 6 volt types, it's most likely being operated by 6 volts.
 As for supplying them, I don't believe I have any 6CW5s, but I would have some of the rest.
 I don't believe I could find 10 of the 6DJ8/ECC88.
-You could have them for free, but I live in Australia which presents a postage issue.
-I think you'll likely find these locally anyway, but come back if you need me.
+You could have them for free, but I think you'll likely find these locally anyway, but come back if you need me.
