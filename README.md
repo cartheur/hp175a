@@ -19,6 +19,23 @@ Specifications:
 * Operating modes:  4 channels A and B: A, B, A/B chopped, A/B alternate, A+B
 * Sensitivity:      50 mV/cm to 20 V/cm in 9 ranges
 
+## Missing tubes
+
+_175A_
+
+* 6CM4/EC86 - 2
+* 6CL6 - 1
+* EL-86/6CW5 - 1
+* 6DJ8/ECC 88 - 20
+* 12AU7 - 1
+* 5651 - 1
+
+_1781B_
+
+* 6DJ8 - 7
+* 12AU6 - 1
+* AGED - 1 - hp 5080-0424
+
 ### Help wanted
 
 As you say that you are new to this, I offer the following information:
