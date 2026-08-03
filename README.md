@@ -12,14 +12,16 @@ To operate the HP 175A, one horizontal and one vertical amplifier module from th
 * Four Channel Amplifier - Model 1754A
 * Delay Generator - Model 1781B
 
-which allows the display duration of the signal under investigation to be varied. Unfortunately, the previous owner – sensing the deal of a lifetime – had removed all 10 6DJ8, 6CW5, and 12AU7 (1) valves from the unit.
+which allows the display duration of the signal under investigation to be varied. Unfortunately the previous owner – sensing the deal of a lifetime – had removed all valves from the unit. Luckily, he missed some _really_ obscure ones.
 
 Specifications:
 * Frequency range:  DC ... 50 MHz
 * Operating modes:  4 channels A and B: A, B, A/B chopped, A/B alternate, A+B
 * Sensitivity:      50 mV/cm to 20 V/cm in 9 ranges
 
-## Missing tubes
+## Gone missing valves
+
+Courtesy of an [_audioPhool_](https://audiophilestyle.com/forums/topic/71212-who-or-what-is-an-audiophool/)
 
 | Unit | Tube | Quantity | Notes |
 | --- | --- | ---: | --- |
