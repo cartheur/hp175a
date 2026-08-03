@@ -21,20 +21,17 @@ Specifications:
 
 ## Missing tubes
 
-_175A_
-
-* 6CM4/EC86 - 2
-* 6CL6 - 1
-* EL-86/6CW5 - 1
-* 6DJ8/ECC 88 - 20
-* 12AU7 - 1
-* 5651 - 1
-
-_1781B_
-
-* 6DJ8 - 7
-* 12AU6 - 1
-* AGED - 1 - hp 5080-0424
+| Unit | Tube | Quantity | Notes |
+| --- | --- | ---: | --- |
+| 175A | 6CM4/EC86 | 2 |  |
+| 175A | 6CL6 | 1 |  |
+| 175A | EL-86/6CW5 | 1 |  |
+| 175A | 6DJ8/ECC 88 | 20 |  |
+| 175A | 12AU7 | 1 |  |
+| 175A | 5651 | 1 |  |
+| 1781B | 6DJ8 | 7 |  |
+| 1781B | 12AU6 | 1 |  |
+| 1781B | AGED | 1 | hp 5080-0424 |
 
 ### Help wanted
 
