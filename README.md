@@ -33,6 +33,23 @@ Specifications:
 | 1781B | 12AU6 | 1 |  |
 | 1781B | AGED | 1 | hp 5080-0424 |
 
+Copy-friendly tally:
+
+```text
+175A
+6CM4/EC86 x2
+6CL6 x1
+EL-86/6CW5 x1
+6DJ8/ECC88 x20
+12AU7 x1
+5651 x1
+
+1781B
+6DJ8 x7
+12AU6 x1
+AGED x1 (hp 5080-0424)
+```
+
 ### Help wanted
 
 As you say that you are new to this, I offer the following information:
